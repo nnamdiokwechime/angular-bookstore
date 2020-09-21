@@ -1,0 +1,26 @@
+.sidebar {
+    width: auto;
+    float: left;
+    border: solid 1pt black;
+    margin-right: 3%;
+    padding: 1%;
+    font-size-adjust: inherit;
+}
+
+.main {
+    width: 75%;
+    float: left;
+    border: solid 1pt black;
+    padding: 1%;
+}
+
+*{
+    color: goldenrod;
+    background-color: black;
+    font-family: cursive;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
+}
