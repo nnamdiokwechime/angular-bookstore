@@ -1,6 +1,7 @@
-# AngularBookstore
+# AngularGroceryStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6. 
+Refactored from a bookstore to a grocery store.
 
 ## Development server
 
