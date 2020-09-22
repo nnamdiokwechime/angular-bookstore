@@ -12,6 +12,8 @@
     float: left;
     border: solid 1pt black;
     padding: 1%;
+    margin: 5%;
+    margin-top: 0%;
 }
 
 *{
